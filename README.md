@@ -82,10 +82,13 @@
 </div>
 
 ## 参与贡献
+欢迎大家参与本项目的建设！你可以通过以下方式贡献：
 
-- 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你想参与贡献本项目，可以提Pull request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，请按照[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)进行操作即可~
+- **主课程建设**：欢迎加入主课程内容的开发（如即将上线的 3D AI+设计 相关课程），共同完善课程体系。
+- **案例库投稿**：欢迎提交你在 AI+设计 领域的实战案例或教程，主题不限，内容可参考[目录结构](docs/casebook/README.md)。
+- **其他建议与协作**：如有想法、建议或希望深度参与，也欢迎随时联系项目维护者。
+
+如有任何问题或投稿意向，请发送邮件至：physicoada@gmail.com
 
 ## 关注我们
 
