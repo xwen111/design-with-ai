@@ -72,7 +72,7 @@ AI 技术浪潮正席卷各行各业，在创意和产品领域展现出巨大�
   - [基于Deepseek和豆包、即梦的视频创作教程](docs/casebook/Video_Production/CyberNezha_video_0501_wenxin/CyberNezha_video_0501_wenxin.md) @温鑫
   - [即梦像素风图片+视频生成教程](docs/casebook/Video_Production/Pixel%20-%20Style%20Image%20%2B%20Video%20Generation%20by%20JimengTutorial/Pixel%20-%20Style%20Image%20%2B%20Video%20Generation%20by%20JimengTutorial.md) @郭佳宇
   - [脚本 + 分镜 + 配音 + 画面 = 文生视频全流程深度解析](docs/casebook/Video_Production/Text_to_Video_Full_Process_Script_Storyboard_VO_Visuals/Text_to_Video_Full_Process_Script_Storyboard_VO_Visuals.md) @李修平 
-  - [播客全流程：如何从0到1打造属于你的电台？](docs/casebook/Video_Production/Podcast_Full_Process/Podcast_Full_Process.md) @李修齐
+  - [播客全流程：如何从0到1打造属于你的电台？](docs/casebook/Video_Production/Podcast_Social_Media_Content/Podcast_Social_Media_Content.md) @李修齐
 ## 项目贡献者
 
 感谢每一位贡献者付出的努力，谢谢你们让这个教程变的更好！
