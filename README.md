@@ -67,6 +67,8 @@
 - [Video Production（视频创作与生成）](docs/casebook/Video_Production)
   - [AI创意视频《赛博哪吒：天机觉醒》制作教程](docs/casebook/Video_Production/CyberNezha_video_0501_wenxin/CyberNezha_video_0501_wenxin.md) @温鑫
 
+  - [AI MV 五月天玩偶版《OAOA》视频保姆级创作教程](docs/casebook/Video_Production/AI_MV_Mayday_OAOA_VideoProduction_Tutorial.md) @温鑫
+
 ## 项目贡献者
 
 感谢每一位贡献者付出的努力，谢谢你们让这个教程变的更好！

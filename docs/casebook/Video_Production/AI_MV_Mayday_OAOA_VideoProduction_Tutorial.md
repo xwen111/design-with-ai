@@ -8,6 +8,7 @@
 5. 可灵
 
 完整版请阅读飞书文档：https://je80mgsrbe.feishu.cn/wiki/OiOHwljhWixPlHkIyoScRPwYnob?from=from_copylink
+浏览版参考本文件夹中的 pdf 文件！
 
 祝大家学的开心！
 🌈
